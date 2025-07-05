@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: |caaf49141Armory|r&|cff1affa5UwU|r buttons
+## Notes: Creates buttons at rightclick menu to get an armory and logs links. (Warmane Armory)
+## Author: Poludurov
+Armory&UwU buttons.lua
